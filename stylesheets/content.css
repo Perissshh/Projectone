@@ -13,7 +13,7 @@ body{
   height: 60vw;
 }
 .im1{
-  padding-left: 37vw;
+  padding-left: 47vw;
   display: flex;
   padding-top: 5vw;
 }
@@ -120,7 +120,6 @@ h3{
   overflow: hidden;
   position: absolute;
   background-color: #58A2D3;
-  background-size: cover;
   padding-top: 10vw;
 }
 .container5{
@@ -144,3 +143,4 @@ padding-bottom: 23vw;
   display: flex;
 
 }
+
